@@ -15,7 +15,8 @@
     "daisyui": "^1.14.6",
     "nuxt": "^2.15.7",
     "vue-number-animation": "^1.1.1",
-    "vue-observe-visibility": "^1.0.0"
+    "vue-observe-visibility": "^1.0.0",
+    "vue-slick-carousel": "^1.0.6"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
